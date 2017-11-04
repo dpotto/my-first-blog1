@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+DjangoGirlsWorkshop
+db.sqlite#
+/static
+.DS_Store
